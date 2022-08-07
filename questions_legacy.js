@@ -1,198 +1,198 @@
 questions = [
-    // Attract
+    // Diet
     {
         "id":1,
-        "question": "I would have relationships with men.",
+        "question": "Modern health food products are made out of chemicals.",
         "effect": {
             "attract": 1,
         }
     },
     {
         "id":2,
-        "question": "I could imagine myself in a sexual scenario with a man.",
+        "question": "I am a rural person.",
         "effect": {
             "attract": 1,
         }
     },
     {
         "id":3,
-        "question": "I find myself attracted to muscular bodies.",
+        "question": "All white fluid is semen.",
         "effect": {
             "attract": 1,
         }
     },
     {
         "id":4,
-        "question": "The benis only makes it better! (I like dick)",
+        "question": "I would rather eat unhealthy meat than healthy plant based alternatives.",
         "effect": {
             "attract": 1,
         }
     },
     {
         "id":5,
-        "question": "I find myself attracted to soft skin, feminine clothing.",
+        "question": "The government wants to force us to eat bugs.",
         "effect": {
             "attract": -1,
         }
     },
     {
         "id":6,
-        "question": "I could imagine myself in a sexual scenario with a woman.",
+        "question": "I am vegetarian.",
         "effect": {
             "attract": -1,
         }
     },
     {
         "id":7,
-        "question": "I would have relationships with women.",
+        "question": "Bugs are living creatures with thoughts and consciousness.",
         "effect": {
             "attract": -1,
         }
     },
 
-    // Drive
+    // Corp/Govt
     {
         "id":8,
-        "question": "I sometimes find myself dreaming about lewd scenarios.",
+        "question": "Google and Amazon would do more malicious things with my data than the government.",
         "effect": {
             "drive": 1,
         }
     },
     {
         "id":9,
-        "question": "I would have sex on a regular basis.",
+        "question": "The government doesn't have corruption that many corporations do.",
         "effect": {
             "drive": 1,
         }
     },
     {
         "id":10,
-        "question": "I masturbate at least once a day.",
+        "question": "Corporations nowadays go beyond normal supply and demand to survey people.",
         "effect": {
             "drive": 1,
         }
     },
     {
         "id":11,
-        "question": "I watch pornographic content.",
+        "question": "Elon musk wants to control my mind",
         "effect": {
             "drive": 1,
         }
     },
     {
         "id":12,
-        "question": "I find myself repulsed by the idea of sex.",
+        "question": "The government is controlled by the antichrist.",
         "effect": {
             "drive": -2,
         }
     },
     {
         "id":13,
-        "question": "I could say 'chastity' is my virtue.",
+        "question": "The government uses mind control tactics/chem trails",
         "effect": {
             "drive": -2,
         }
     },
 
-    // Dominant
+    // Beta/Sigma
     {
         "id":14,
-        "question": "I like the idea of having power over someone.",
+        "question": "I don't do anything to protect my privacy.",
         "effect": {
             "dominant": 1,
         }
     },
     {
         "id":15,
-        "question": "I (would) enjoy someone having control over me.",
+        "question": "If you cannot beat the powers at be, you become them in order to ensure those powers don't harm you",
         "effect": {
             "dominant": -1,
         }
     },
     {
         "id":16,
-        "question": "I wouldn't be comfortable with getting dominated.",
+        "question": "I do not own a firearm.",
         "effect": {
             "dominant": 1,
         }
     },
 
-    // Deviance
+    // Religion
     {
         "id":17,
-        "question": "I have frowned-upon kinks/fetishes.",
+        "question": "I believe in a higher power.",
         "effect": {
             "deviance": 1,
         }
     },
     {
         "id":18,
-        "question": "I belong to sub-communities associated with deviances.",
+        "question": "The end times are near, and God is going to save us.",
         "effect": {
             "deviance": 1,
         }
     },
     {
         "id":19,
-        "question": "I (would) enjoy degrading or getting degraded.",
+        "question": "I regularly attend church services.",
         "effect": {
             "deviance": 1,
         }
     },
     {
         "id":20,
-        "question": "I (would) enjoy inflicting pain or having pain inflicted on me.",
+        "question": "Satan controls many aspects of the powers in the world (corporations, governments, etc)",
         "effect": {
             "deviance": 1,
         }
     },
     {
         "id":21,
-        "question": "I consider myself vanilla.",
+        "question": "I would take my children to a drag show before I took them to a church.",
         "effect": {
             "deviance": -2,
         }
     },
     {
         "id":22,
-        "question": "I find most of fetishes disgusting.",
+        "question": "Raid the vatican! They can't molest us all!",
         "effect": {
             "deviance": -1,
         }
     },
     {
         "id":23,
-        "question": "I might be too boring for some people in the bedroom.",
+        "question": "The reason that many religions are pro-life is so that they can have more youth/tithes as they get older",
         "effect": {
             "deviance": -1,
         }
     },
 
-    // Affect
+    // Cannibalism/Bugs
     {
         "id":24,
-        "question": "I could only be lewd to my partner(s).",
+        "question": "I eat my enemies.",
         "effect": {
             "affect": 1,
         }
     },
     {
         "id":25,
-        "question": "Sex should be a romantic topic.",
+        "question": "Human tastes very good.",
         "effect": {
             "affect": 1
         }
     },
     {
         "id":26,
-        "question": "I am okay with the idea of hook-ups or one-night stands.",
+        "question": "There are bugs in my skin.",
         "effect": {
             "affect": -1
         }
     },
     {
         "id":27,
-        "question": "Sex is more about the pleasure than the intimacy.",
+        "question": "Everyone has bugs in their skin.",
         "effect": {
             "affect": -1
         }
