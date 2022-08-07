@@ -104,7 +104,7 @@ questions = [
     },
     {
         "id":15,
-        "question": "If you cannot beat the powers at be, you become them in order to ensure those powers don't harm you",
+        "question": "If you cannot beat the powers that be, you become them in order to ensure those powers don't harm you",
         "effect": {
             "dominant": -1,
         }
