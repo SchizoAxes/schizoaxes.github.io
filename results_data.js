@@ -3,19 +3,19 @@
     labels = ["attract","drive","dominant","deviance","affect"];
 
     axisNames = {
-            "attract": "Attraction",
-            "drive": "Sex Drive",
-            "dominant": "Dominance Axis",
-            "deviance": "Deviance Axis",
-            "affect": "Affection Axis"
+            "attract": "Diet",
+            "drive": "Enemy",
+            "dominant": "Personality",
+            "deviance": "Religion",
+            "affect": "Skin"
     };
 
     axisArrays = {
-            "attract": ["Feminine","Feminine-leaning","Neutral","Masculine-leaning","Masculine"],
-            "drive": ["Hyposexual", "Low", "Medium", "High", "Hypersexual"],
-            "dominant": ["Submissive", "Switch", "Dominant"],
-            "deviance": ["Puritarian","Vanilla","Balanced","Kinky","Deviant"],
-            "affect": ["Hedonist","Open","Neutral","Affective","Exclusive"]
+            "attract": ["Total carnivore","Wouldn't eat oatly","Neutral","Doesn't eat bugs","Total herbivore"],
+            "drive": ["Hates corporations", "Socialist", "Medium", "Libertarian", "Hates the government"],
+            "dominant": ["Beta", "Switch", "Sigma"],
+            "deviance": ["Holy roller","Religious","Balanced","Atheist","Bible-hater"],
+            "affect": ["Cannibal","Person eater","Neutral","Scared","BUGS ARE IN MY SKIN"]
     };
 
 // Values
