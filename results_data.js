@@ -11,11 +11,11 @@
     };
 
     axisArrays = {
-            "attract": ["Total carnivore","Wouldn't eat oatly","Neutral","Doesn't eat bugs","Total herbivore"],
-            "drive": ["Hates corporations", "Socialist", "Medium", "Libertarian", "Hates the government"],
-            "dominant": ["Beta", "Switch", "Sigma"],
-            "deviance": ["Holy roller","Religious","Balanced","Atheist","Bible-hater"],
-            "affect": ["Cannibal","Person eater","Neutral","Scared","BUGS ARE IN MY SKIN"]
+            "attract": ["Total herbivore","Wouldn't eat bugs","Neutral","Doesn't drink oatly","Total carnivore"],
+            "drive": ["Hates the government", "Libertarian", "Medium", "Socialist", "Hates corporations"],
+            "dominant": ["Sigma", "Neutral", "Beta"],
+            "deviance": ["Bible hater","Atheist","Balanced","Religious","Holy roller"],
+            "affect": ["BUGS ARE IN MY SKIN","Scared","Neutral","Person Eater","BUGS ARE IN MY SKIN"]
     };
 
 // Values
